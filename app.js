@@ -10,7 +10,6 @@
 // slide[1] = "images/billie1.png";
 // slide[2] = "images/tyler1.png";
 // slide[3] = "images/joji1.png";
-// slide[4] = "images/peep1.png"
 
 
 
